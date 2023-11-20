@@ -46,7 +46,7 @@ This command extracts frames from `my_video.mp4`, saving them to the `extracted_
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Show Your Support
 
